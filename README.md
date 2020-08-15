@@ -18,23 +18,27 @@ Sin embargo, estos mismos datos muestran que en Mexicali, con una población tot
 Esto provoca que intentar utilizar la diferencia demográfica para explicar el comportamiento de la pandemia, resulte incompleto.
 
 
-![Imagen casos por dia](https://github.com/ItchelTG/CdeCMx/blob/master/bc_detail%20(1).png?raw=true)
+![Imagen casos por dia](https://github.com/ItchelTG/CdeCMx/blob/master/bc_detail.png?raw=true)
 
 
 Por otro lado, las recientes hipótesis que apuntan a la temperatura ambiental como factor que incide en la transmisión del virus también resultan insuficientes si lo que queremos es entender el porqué del comportamiento del virus. 
 Lo dicho se puede apreciar en las siguientes gráficas:
 
 
-![Imagen clima Tijuana](https://github.com/ItchelTG/CdeCMx/blob/master/Temp%20y%20casos%20Tijuana.png?raw=true)
+![Imagen clima Tijuana](https://github.com/ItchelTG/CdeCMx/blob/master/Tijuana.png?raw=true)
 
 
-![Imagen clima Mexicali](https://github.com/ItchelTG/CdeCMx/blob/master/Running_mean%20temp%20y%20casos%20Mexicali.png?raw=true)
+![Imagen clima Mexicali](https://github.com/ItchelTG/CdeCMx/blob/master/Mexicali.png?raw=true)
 
 
 Se observa que, si bien los factores climáticos pueden efectivamente incidir en el índice de propagación viral, éstos no son suficientes para describir y/o predecir el comportamiento de la pandemia. Se debe tener en cuenta el contexto social para tener un análisis completo, como es la condición socioeconómica de la población. 
 ### Desarrollo 
 De acuerdo con los datos publicados el 31 de enero por la Secretaría de Bienestar, los municipios presentan de un 23.9% a un 35.0% de población en pobreza moderada, teniendo un promedio de  27.1%, que sumado al el promedio de pobreza extrema (2.1%), se obtiene 29.2% del total de personas en pobreza en el estado.
-#### Imagen
+
+
+![Imagen pobreza](https://github.com/ItchelTG/CdeCMx/blob/master/pobreza.png?raw=true)
+
+
 A primera vista, la gráfica nos indica que no hay relación entre el nivel económico de la población y el número de contagios. La población pobre no es lo mismo que la población vulnerable. 
 Graficando la población no vulnerable, obtenemos lo siguiente:
 
