@@ -1,9 +1,9 @@
 # Variabilidad de casos Covid-19 en Baja California no relacionada a la densidad poblacional 
 
 ### Introducción
-<p style=”text-align: justify;”>¿Podrá influir el clima en la propagación del Covid-19?, ¿o son otros factores sociales los que determinan la velocidad de contagio?
+<p style=”text-align: justify;”>¿Podrá influir el clima en la propagación del Covid-19?, ¿o son otros factores sociales los que determinan la velocidad de contagio?</p>
 
-En el estado de Baja California se ha encontrado una gran variabilidad en cuanto a cómo se ha propagado el COVID-19 hasta la fecha. Regularmente, este fenómeno se encuentra fuertemente ligado a la población.</p>
+<p style=”text-align: justify;”>En el estado de Baja California se ha encontrado una gran variabilidad en cuanto a cómo se ha propagado el COVID-19 hasta la fecha. Regularmente, este fenómeno se encuentra fuertemente ligado a la población.</p>
 
 ***Población en municipios de Baja California***
 
@@ -13,16 +13,16 @@ Municipio | Ensenada | Mexicali | Tecate | Tijuana | Playas de Rosarito
 **Casos totes** | 2044 | 7582 | 344 | 4306 | 192
 **% de la población contagiada** | 0.3812% | 0.6972% | 0.3021% | 0.2406% | 0.1780%
 
-<p style=”text-align: justify;”>Los municipios de Tecate y Playas de Rosarito son los que poseen menor número de habitantes, así como los que menos casos de SARS-COV-2 presentan.
-Sin embargo, estos mismos datos muestran que en Mexicali, con una población total de 1,087,478 personas, los contagios se han dado en mayor cantidad que en, por ejemplo, Tijuana, a pesar de que esta tiene mayor población: 1,789,531 habitantes. 
-Esto provoca que intentar utilizar la diferencia demográfica para explicar el comportamiento de la pandemia, resulte incompleto.</p>
+<p style=”text-align: justify;”>Los municipios de Tecate y Playas de Rosarito son los que poseen menor número de habitantes, así como los que menos casos de SARS-COV-2 presentan.</p>
+<p style=”text-align: justify;”>Sin embargo, estos mismos datos muestran que en Mexicali, con una población total de 1,087,478 personas, los contagios se han dado en mayor cantidad que en, por ejemplo, Tijuana, a pesar de que esta tiene mayor población: 1,789,531 habitantes.</p>
+<p style=”text-align: justify;”>Esto provoca que intentar utilizar la diferencia demográfica para explicar el comportamiento de la pandemia, resulte incompleto.</p>
 
 
 ![Imagen casos por dia](https://github.com/ItchelTG/CdeCMx/blob/master/bc_detail.png?raw=true)
 
 
-Por otro lado, las recientes hipótesis que apuntan a la temperatura ambiental como factor que incide en la transmisión del virus también resultan insuficientes si lo que queremos es entender el porqué del comportamiento del virus. 
-Lo dicho se puede apreciar en las siguientes gráficas:
+<p style=”text-align: justify;”>Por otro lado, las recientes hipótesis que apuntan a la temperatura ambiental como factor que incide en la transmisión del virus también resultan insuficientes si lo que queremos es entender el porqué del comportamiento del virus.</p>
+<p style=”text-align: justify;”>Lo dicho se puede apreciar en las siguientes gráficas:</p>
 
 
 ![Imagen clima Tijuana](https://github.com/ItchelTG/CdeCMx/blob/master/Tijuana.png?raw=true)
