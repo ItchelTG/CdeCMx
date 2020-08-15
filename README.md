@@ -30,6 +30,7 @@ Además, Tijuana y Mexicali no están entrelazadas directamente, por ello los, b
 </div>
 
 
+![Imagen mapa](https://github.com/ItchelTG/CdeCMx/blob/master/image.png?raw=true)
 
 
 <div style="text-align: justify">
