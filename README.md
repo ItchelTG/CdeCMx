@@ -23,6 +23,7 @@ Lo dicho se puede apreciar en las siguientes gráficas:
 
 ![Imagen clima Tijuana](https://github.com/ItchelTG/CdeCMx/blob/master/Temp%20y%20casos%20Tijuana.png?raw=true)
 
+
 ![Imagen clima Mexicali](https://github.com/ItchelTG/CdeCMx/blob/master/Running_mean%20temp%20y%20casos%20Mexicali.png?raw=true)
 
 
