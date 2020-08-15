@@ -86,3 +86,41 @@ Suponemos que esta incongruencia se debe a que, como es de esperar, el análisis
 <div style="text-align: justify">
 Como ejemplo, en la gráfica “Casos covid por día” se puede apreciar que las fechas en las que se sitúan los principales incrementos en Mexicali coinciden con las fechas de celebraciones populares en el país, como lo son el día del niño (30 de abril) y el día de las madres (10 de mayo). Presumimos que esto pudo ser una de las principales causas de tan alarmante aumento. Además, el gobierno municipal, estableció medidas más rígidas, como el uso obligatorio de cubrebocas, el límite de dos personas por automóvil y la restricción de horarios de apertura en establecimientos después del alza de casos, no antes. Cabe destacar esto último, pues es una muestra de cómo las decisiones gubernamentales también son un factor que puede impactar directamente en la velocidad de propagación de cualquier enfermedad. 
 </div>
+### Referencias
+
+Forbes staff. (2020). Hospitales y funerarias de Mexicali en su máxima capacidad por Covid-19. Agosto 14, 2020, de Forbes México Sitio web:
+https://www.forbes.com.mx/noticias-hospitales-y-funerarias-de-mexicali-en-su-maxima-capacidad-por-covid-19/
+
+José Antonio Román. (2020). Clima cálido retrasó contagio comunitario de Covid-19: investigadora. Agosto 14 del 2020, de Jornada Sitio web: 
+https://www.jornada.com.mx/ultimas/politica/2020/07/30/clima-calido-retraso-contagio-comunitario-de-covid-19-especialista-8615.html
+
+Secretaría de Bienestar. (2020). Informe anual sobre la situación de pobreza y rezago social 2020. Agosto 14, 2020, de Secretaría de Bienestar Sitio web:
+https://www.gob.mx/bienestar/documentos/informe-anual-sobre-la-situacion-de-pobreza-y-rezago-social
+
+https://extranet.bienestar.gob.mx/pnt/Informes_por_municipio/Baja_California_2020.pdf
+
+Secretaría de Bienestar. (2020). Informe anual sobre la situación de pobreza y rezago social 2020. Agosto 14, 2020, Secretaría de Bienestar. Sitio web: 
+https://extranet.bienestar.gob.mx/pnt/Informe_2020/inf_municipal_02001.pdf
+
+https://extranet.bienestar.gob.mx/pnt/Informe_2020/inf_municipal_02002.pdf
+
+https://extranet.bienestar.gob.mx/pnt/Informe_2020/inf_municipal_02003.pdf
+
+https://extranet.bienestar.gob.mx/pnt/Informe_2020/inf_municipal_02004.pdf
+
+https://extranet.bienestar.gob.mx/pnt/Informe_2020/inf_municipal_02005.pdf
+
+Tijuana Climate (Mexico). Agosto 14, 2020, de Climate-Data.org Sitio web:
+https://en.climate-data.org/north-america/mexico/lower-california/tijuana-1005196/#temperature-graph
+
+Mexicali Climate (Mexico). Agosto 14, 2020, de Climate-Data.org Sitio web:
+https://en.climate-data.org/north-america/mexico/lower-california/mexicali-2034/
+
+Gobierno de México. (2020). Todo sobre el COVID-19. Agosto 14, 2020, de Gobierno de México Sitio web: https://coronavirus.gob.mx/
+
+https://colab.research.google.com/drive/1tKlm7_kUNBnZWV3tM3lRBSJTXPQ7ngsd?usp=sharing (Gráfica Mexicali)
+
+https://colab.research.google.com/drive/1AL3BZ1GoeaXW-SiNYpqso0WWX4ykNEQw?usp=sharing (Gráfica Tijuana)
+
+https://colab.research.google.com/drive/1sNCGsUq1Fp5UttSaR8b-BC6jy4eQzfhA?usp=sharing (Gráfica no pobreza)
+
