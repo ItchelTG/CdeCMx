@@ -11,6 +11,7 @@ Municipio | Ensenada | Mexicali | Tecate | Tijuana | Playas de Rosarito
 **Población total** | 536,143 | 1,087,478 | 113,857 | 1,789,531 | 107,859
 **Casos totes** | 2044 | 7582 | 344 | 4306 | 192
 **% de la población contagiada** | 0.3812% | 0.6972% | 0.3021% | 0.2406% | 0.1780%
+
 Los municipios de Tecate y Playas de Rosarito son los que poseen menor número de habitantes, así como los que menos casos de SARS-COV-2 presentan.
 Sin embargo, estos mismos datos muestran que en Mexicali, con una población total de 1,087,478 personas, los contagios se han dado en mayor cantidad que en, por ejemplo, Tijuana, a pesar de que esta tiene mayor población: 1,789,531 habitantes. 
 Esto provoca que intentar utilizar la diferencia demográficos para explicar el comportamiento de la pandemia, resulte incompleto.
