@@ -15,7 +15,7 @@ Municipio | Ensenada | Mexicali | Tecate | Tijuana | Playas de Rosarito
 
 Los municipios de Tecate y Playas de Rosarito son los que poseen menor número de habitantes, así como los que menos casos de SARS-COV-2 presentan.
 Sin embargo, estos mismos datos muestran que en Mexicali, con una población total de 1,087,478 personas, los contagios se han dado en mayor cantidad que en, por ejemplo, Tijuana, a pesar de que esta tiene mayor población: 1,789,531 habitantes. 
-Esto provoca que intentar utilizar la diferencia demográficos para explicar el comportamiento de la pandemia, resulte incompleto.
+Esto provoca que intentar utilizar la diferencia demográfica para explicar el comportamiento de la pandemia, resulte incompleto.
 
 
 ![Imagen casos por dia](https://github.com/ItchelTG/CdeCMx/blob/master/bc_detail%20(1).png?raw=true)
@@ -33,7 +33,7 @@ Lo dicho se puede apreciar en las siguientes gráficas:
 
 Se observa que, si bien los factores climáticos pueden efectivamente incidir en el índice de propagación viral, éstos no son suficientes para describir y/o predecir el comportamiento de la pandemia. Se debe tener en cuenta el contexto social para tener un análisis completo, como es la condición socioeconómica de la población. 
 ### Desarrollo 
-De acuerdo con los datos publicados el 31 de enero por la Secretaría de Bienestar, los municipios presentan de un 23.9% a un 35.0% de población en pobreza moderada, teniendo un promedio de  27.1%, que sumado con el promedio de pobreza extrema (2.1%), se obtiene 29.2% del total de personas en pobreza en el estado.
+De acuerdo con los datos publicados el 31 de enero por la Secretaría de Bienestar, los municipios presentan de un 23.9% a un 35.0% de población en pobreza moderada, teniendo un promedio de  27.1%, que sumado al el promedio de pobreza extrema (2.1%), se obtiene 29.2% del total de personas en pobreza en el estado.
 #### Imagen
 A primera vista, la gráfica nos indica que no hay relación entre el nivel económico de la población y el número de contagios. La población pobre no es lo mismo que la población vulnerable. 
 Graficando la población no vulnerable, obtenemos lo siguiente:
@@ -43,7 +43,7 @@ Graficando la población no vulnerable, obtenemos lo siguiente:
 
 
 Se puede observar que estos últimos datos se apegan un poco más al comportamiento del virus. Como ejemplo, Mexicali: es el municipio con mayor porcentaje, y también el que más casos de Covid-19 ha reportado hasta la fecha. Por otro lado, Playas de Rosarito es aquel con menor índice de personas en estado de no pobreza y vulnerabilidad, así como aquella cuya propagación viral se ha mostrado menor a comparación de las otras entidades.
-Esto podría deberse a que, debido a la condición socioeconómica de Mexicali, las personas pueden permitirse con mayor regularidad actividades turísticas y de recreación, lo que provoca que exista más interacción entre los ciudadanos locales y extranjeros. 
+Esto podría ocurrir a que, debido a la condición socioeconómica de Mexicali, las personas pueden permitirse con mayor regularidad actividades turísticas y de recreación, lo que provoca que exista más interacción entre los ciudadanos locales y extranjeros. 
 ### Discusión 
 A pesar que los últimos datos apuntan a una posible correlación entre éstos y los casos diarios reportados, es necesario destacar aspectos problemáticos, como es que los municipios Ensenada y Tecate no se ajustan a la hipótesis, sin mencionar que el último y Tijuana presentan un porcentaje de personas no pobres ni vulnerables muy cercano (1% de diferencia); sin embargo, la propagación viral en éstos se ha comportado sumamente diferente. 
 Suponemos que esta incongruencia se debe a que, como es de esperar, el análisis del comportamiento y/o predicción de la propagación viral se debe hacer desde una perspectiva multifactorial.
