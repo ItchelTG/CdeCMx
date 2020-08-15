@@ -90,7 +90,7 @@ Como ejemplo, en la gráfica “Casos covid por día” se puede apreciar que la
 
 Forbes staff. (2020). Hospitales y funerarias de Mexicali en su máxima capacidad por Covid-19. Agosto 14, 2020, de Forbes México Sitio web:
 
-!(https://www.forbes.com.mx/noticias-hospitales-y-funerarias-de-mexicali-en-su-maxima-capacidad-por-covid-19/)
+https://www.forbes.com.mx/noticias-hospitales-y-funerarias-de-mexicali-en-su-maxima-capacidad-por-covid-19/
 
 José Antonio Román. (2020). Clima cálido retrasó contagio comunitario de Covid-19: investigadora. Agosto 14 del 2020, de Jornada Sitio web: 
 https://www.jornada.com.mx/ultimas/politica/2020/07/30/clima-calido-retraso-contagio-comunitario-de-covid-19-especialista-8615.html
