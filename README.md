@@ -20,8 +20,11 @@ Esto provoca que intentar utilizar la diferencia demográficos para explicar el 
 Por otro lado, las recientes hipótesis que apuntan a la temperatura ambiental como factor que incide en la transmisión del virus también resultan insuficientes si lo que queremos es entender el porqué del comportamiento del virus. 
 Lo dicho se puede apreciar en las siguientes gráficas:
 
+
 ![Imagen clima Tijuana](https://github.com/ItchelTG/CdeCMx/blob/master/Temp%20y%20casos%20Tijuana.png?raw=true)
+
 ![Imagen clima Mexicali](https://github.com/ItchelTG/CdeCMx/blob/master/Running_mean%20temp%20y%20casos%20Mexicali.png?raw=true)
+
 
 Se observa que, si bien los factores climáticos pueden efectivamente incidir en el índice de propagación viral, éstos no son suficientes para describir y/o predecir el comportamiento de la pandemia. Se debe tener en cuenta el contexto social para tener un análisis completo, como es la condición socioeconómica de la población. 
 ### Desarrollo 
@@ -30,7 +33,9 @@ De acuerdo con los datos publicados el 31 de enero por la Secretaría de Bienest
 A primera vista, la gráfica nos indica que no hay relación entre el nivel económico de la población y el número de contagios. La población pobre no es lo mismo que la población vulnerable. 
 Graficando la población no vulnerable, obtenemos lo siguiente:
 
+
 ![Imagen no vulnerable](https://github.com/ItchelTG/CdeCMx/blob/master/NoPobreza_BC%20(1).png?raw=true) 
+
 
 Se puede observar que estos últimos datos se apegan un poco más al comportamiento del virus. Como ejemplo, Mexicali: es el municipio con mayor porcentaje, y también el que más casos de Covid-19 ha reportado hasta la fecha. Por otro lado, Playas de Rosarito es aquel con menor índice de personas en estado de no pobreza y vulnerabilidad, así como aquella cuya propagación viral se ha mostrado menor a comparación de las otras entidades.
 Esto podría deberse a que, debido a la condición socioeconómica de Mexicali, las personas pueden permitirse con mayor regularidad actividades turísticas y de recreación, lo que provoca que exista más interacción entre los ciudadanos locales y extranjeros. 
