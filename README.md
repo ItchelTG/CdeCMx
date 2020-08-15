@@ -5,7 +5,7 @@
 
 En el estado de Baja California se ha encontrado una gran variabilidad en cuanto a cómo se ha propagado el COVID-19 hasta la fecha. Regularmente, este fenómeno se encuentra fuertemente ligado a la población. 
 
-***Población en estados de Baja California***
+***Población en municipios de Baja California***
 
 Municipio | Ensenada | Mexicali | Tecate | Tijuana | Playas de Rosarito
 ----------|----------|----------|--------|-------- |-----------------------  
