@@ -18,7 +18,7 @@ Sin embargo, estos mismos datos muestran que en Mexicali, con una población tot
 Esto provoca que intentar utilizar la diferencia demográficos para explicar el comportamiento de la pandemia, resulte incompleto.
 
 
-![Imagen casos por dia](https://github.com/ItchelTG/CdeCMx/blob/master/bc_detail.png?raw=true)
+![Imagen casos por dia](https://github.com/ItchelTG/CdeCMx/blob/master/bc_detail%20(1).png?raw=true)
 
 
 Por otro lado, las recientes hipótesis que apuntan a la temperatura ambiental como factor que incide en la transmisión del virus también resultan insuficientes si lo que queremos es entender el porqué del comportamiento del virus. 
@@ -39,7 +39,7 @@ A primera vista, la gráfica nos indica que no hay relación entre el nivel econ
 Graficando la población no vulnerable, obtenemos lo siguiente:
 
 
-![Imagen no vulnerable](https://github.com/ItchelTG/CdeCMx/blob/master/NoPobreza_BC%20(1).png?raw=true) 
+![Imagen no vulnerable](https://github.com/ItchelTG/CdeCMx/blob/master/BC_NoPobrezaF.png?raw=true) 
 
 
 Se puede observar que estos últimos datos se apegan un poco más al comportamiento del virus. Como ejemplo, Mexicali: es el municipio con mayor porcentaje, y también el que más casos de Covid-19 ha reportado hasta la fecha. Por otro lado, Playas de Rosarito es aquel con menor índice de personas en estado de no pobreza y vulnerabilidad, así como aquella cuya propagación viral se ha mostrado menor a comparación de las otras entidades.
