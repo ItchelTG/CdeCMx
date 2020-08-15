@@ -26,6 +26,13 @@ Los municipios de Tecate y Playas de Rosarito son los que poseen menor número d
 
 
 <div style="text-align: justify">
+Además, Tijuana y Mexicali no están entrelazadas directamente, por ello los, brotes en ambas ciudades son independientes, como se aprecia en el siguiente mapa:
+</div>
+
+
+
+
+<div style="text-align: justify">
 Por otro lado, las recientes hipótesis que apuntan a la temperatura ambiental como factor que incide en la transmisión del virus también resultan insuficientes si lo que queremos es entender el porqué del comportamiento del virus.
 </div>
 <div style="text-align: justify">
