@@ -116,10 +116,3 @@ Mexicali Climate (Mexico). Agosto 14, 2020, de Climate-Data.org Sitio web:
 [https://en.climate-data.org/north-america/mexico/lower-california/mexicali-2034/](https://en.climate-data.org/north-america/mexico/lower-california/mexicali-2034/)
 
 Gobierno de México. (2020). Todo sobre el COVID-19. Agosto 14, 2020, de Gobierno de México Sitio web: [https://coronavirus.gob.mx/](https://coronavirus.gob.mx/)
-
-[https://colab.research.google.com/drive/1tKlm7_kUNBnZWV3tM3lRBSJTXPQ7ngsd?usp=sharing](https://colab.research.google.com/drive/1tKlm7_kUNBnZWV3tM3lRBSJTXPQ7ngsd?usp=sharing) (Gráfica Mexicali)
-
-[https://colab.research.google.com/drive/1AL3BZ1GoeaXW-SiNYpqso0WWX4ykNEQw?usp=sharing](https://colab.research.google.com/drive/1AL3BZ1GoeaXW-SiNYpqso0WWX4ykNEQw?usp=sharing) (Gráfica Tijuana)
-
-[https://colab.research.google.com/drive/1sNCGsUq1Fp5UttSaR8b-BC6jy4eQzfhA?usp=sharing](https://colab.research.google.com/drive/1sNCGsUq1Fp5UttSaR8b-BC6jy4eQzfhA?usp=sharing) (Gráfica no pobreza)
-
