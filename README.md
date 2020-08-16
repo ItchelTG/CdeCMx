@@ -92,6 +92,7 @@ Como ejemplo, en la gráfica “Casos covid por día” se puede apreciar que la
 - Julieta Sanchez Schianffini
 - Daniela Itchel Torres Gomez
 
+
 ### Referencias
 
 Forbes staff. (2020). Hospitales y funerarias de Mexicali en su máxima capacidad por Covid-19. Agosto 14, 2020, de Forbes México Sitio web:
