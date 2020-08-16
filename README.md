@@ -86,10 +86,12 @@ Suponemos que esta incongruencia se debe a que, como es de esperar, el análisis
 <div style="text-align: justify">
 Como ejemplo, en la gráfica “Casos covid por día” se puede apreciar que las fechas en las que se sitúan los principales incrementos en Mexicali coinciden con las fechas de celebraciones populares en el país, como lo son el día del niño (30 de abril) y el día de las madres (10 de mayo). Presumimos que esto pudo ser una de las principales causas de tan alarmante aumento. Además, el gobierno municipal, estableció medidas más rígidas, como el uso obligatorio de cubrebocas, el límite de dos personas por automóvil y la restricción de horarios de apertura en establecimientos después del alza de casos, no antes. Cabe destacar esto último, pues es una muestra de cómo las decisiones gubernamentales también son un factor que puede impactar directamente en la velocidad de propagación de cualquier enfermedad. 
 </div>
+
 ### Equipo clubero 
 - Gilberto Ivan Rodríguez Encinas
 - Julieta Sanchez Schianffini
 - Daniela Itchel Torres Gomez
+
 ### Referencias
 
 Forbes staff. (2020). Hospitales y funerarias de Mexicali en su máxima capacidad por Covid-19. Agosto 14, 2020, de Forbes México Sitio web:
