@@ -96,21 +96,31 @@ Por último, en este análisis no tomamos en cuenta la posición geográfica del
 - Daniela Itchel Torres Gomez
 
 ### Agradecimientos:
+<div style="text-align: justify">
 Queremos agradecer a CdeCMx por ofrecernos la oportunidad y herramientas para participar en el challenge. Por conseguir instructores especializados, amables, apasionados por su trabajo y divulgación científica.
+</div>
 
+<div style="text-align: justify">
 También agradecer a los miembros del staff y el equipo de omega-up, quienes nos apoyaron en todo momento, resolviendo dudas y creando diversas dinámicas para relacionarnos y desempeñarnos mejor con nuestros compañeros.
+</div>
 
+<div style="text-align: justify">
 Nuestro equipo está sumamente agradecido con todos los instructores del track A: Salud e impacto ambiental, pues los temas impartidos fueron de mucha utilidad para el desarrollo de la idea del proyecto y su pertinente desarrollo. 
+</div>
 
 Agradecimientos especiales:
 
+<div style="text-align: justify">
 Agradecemos a la instructora Alma Carolina, por proporcionarnos la información necesaria para el desarrollo del proyecto, y por siempre estar dispuesta a escuchar y resolver todas nuestras dudas.
+</div>
 
+<div style="text-align: justify">
 A José, quien nos ayudó a desenvolvernos en Google Colab, y trató temas de interconexión por medio de grafos.
+</div>
 
+<div style="text-align: justify">
 We want to thank Siddharth Narayanan who inspired us to make organized and clean codes. Much of the structure was organized as Sid’s way of code.
-
-
+</div>
 
 ### Referencias
 
