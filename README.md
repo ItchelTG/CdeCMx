@@ -88,17 +88,23 @@ Como ejemplo, en la gráfica “Casos covid por día” se puede apreciar que la
 </div>
 ### Referencias
 
-Forbes staff. (2020). Hospitales y funerarias de Mexicali en su máxima capacidad por Covid-19. Agosto 14, 2020, de Forbes México Sitio web:[https://www.forbes.com.mx/noticias-hospitales-y-funerarias-de-mexicali-en-su-maxima-capacidad-por-covid-19/](https://www.forbes.com.mx/noticias-hospitales-y-funerarias-de-mexicali-en-su-maxima-capacidad-por-covid-19/)
+Forbes staff. (2020). Hospitales y funerarias de Mexicali en su máxima capacidad por Covid-19. Agosto 14, 2020, de Forbes México Sitio web:
+[https://www.forbes.com.mx/noticias-hospitales-y-funerarias-de-mexicali-en-su-maxima-capacidad-por-covid-19/](https://www.forbes.com.mx/noticias-hospitales-y-funerarias-de-mexicali-en-su-maxima-capacidad-por-covid-19/)
+
+Gobierno de México. (2020). Todo sobre el COVID-19. Agosto 14, 2020, de Gobierno de México Sitio web: [https://coronavirus.gob.mx/](https://coronavirus.gob.mx/)
 
 José Antonio Román. (2020). Clima cálido retrasó contagio comunitario de Covid-19: investigadora. Agosto 14 del 2020, de Jornada Sitio web: 
 [https://www.jornada.com.mx/ultimas/politica/2020/07/30/clima-calido-retraso-contagio-comunitario-de-covid-19-especialista-8615.html](https://www.jornada.com.mx/ultimas/politica/2020/07/30/clima-calido-retraso-contagio-comunitario-de-covid-19-especialista-8615.html)
+
+Mexicali Climate (Mexico). Agosto 14, 2020, de Climate-Data.org Sitio web:
+[https://en.climate-data.org/north-america/mexico/lower-california/mexicali-2034/](https://en.climate-data.org/north-america/mexico/lower-california/mexicali-2034/)
 
 Secretaría de Bienestar. (2020). Informe anual sobre la situación de pobreza y rezago social 2020. Agosto 14, 2020, de Secretaría de Bienestar Sitio web:
 [https://www.gob.mx/bienestar/documentos/informe-anual-sobre-la-situacion-de-pobreza-y-rezago-social](https://www.gob.mx/bienestar/documentos/informe-anual-sobre-la-situacion-de-pobreza-y-rezago-social)
 
 [https://extranet.bienestar.gob.mx/pnt/Informes_por_municipio/Baja_California_2020.pdf](https://extranet.bienestar.gob.mx/pnt/Informes_por_municipio/Baja_California_2020.pdf)
 
-Secretaría de Bienestar. (2020). Informe anual sobre la situación de pobreza y rezago social 2020. Agosto 14, 2020, Secretaría de Bienestar. Sitio web:
+Secretaría de Bienestar. (2020). Informe anual sobre la situación de pobreza y rezago social 2020. Agosto 14, 2020, Secretaría de Bienestar. Sitio web: 
 [https://extranet.bienestar.gob.mx/pnt/Informe_2020/inf_municipal_02001.pdf](https://extranet.bienestar.gob.mx/pnt/Informe_2020/inf_municipal_02001.pdf)
 
 [https://extranet.bienestar.gob.mx/pnt/Informe_2020/inf_municipal_02002.pdf](https://extranet.bienestar.gob.mx/pnt/Informe_2020/inf_municipal_02002.pdf)
@@ -112,7 +118,3 @@ Secretaría de Bienestar. (2020). Informe anual sobre la situación de pobreza y
 Tijuana Climate (Mexico). Agosto 14, 2020, de Climate-Data.org Sitio web:
 [https://en.climate-data.org/north-america/mexico/lower-california/tijuana-1005196/#temperature-graph](https://en.climate-data.org/north-america/mexico/lower-california/tijuana-1005196/#temperature-graph)
 
-Mexicali Climate (Mexico). Agosto 14, 2020, de Climate-Data.org Sitio web:
-[https://en.climate-data.org/north-america/mexico/lower-california/mexicali-2034/](https://en.climate-data.org/north-america/mexico/lower-california/mexicali-2034/)
-
-Gobierno de México. (2020). Todo sobre el COVID-19. Agosto 14, 2020, de Gobierno de México Sitio web: [https://coronavirus.gob.mx/](https://coronavirus.gob.mx/)
